@@ -7,7 +7,7 @@ const cors = require('cors');
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://darbytristan:L1j96guq6JilqGq5@cluster0.bseep8i.mongodb.net/', {
+mongoose.connect('mongodb://localhost:27017', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 }).then(() => console.log('MongoDB Connected'))
