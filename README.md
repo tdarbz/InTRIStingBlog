@@ -15,10 +15,6 @@ Update: PUT requests to modify existing articles.
 Delete: DELETE requests to remove articles.
 Database (MongoDB): Stores articles with fields for title, content, and author.
 
-Styling (CSS):
-Styling and Layout: The CSS file (app.css) defines styles for the app, including center-aligned text, styled input fields and text areas, and responsive design elements.
-Visual Elements: Includes an animated logo and a color scheme that offers a professional and modern aesthetic.
-
 Functionality:
 The application is interactive, with the ability to dynamically add, update, and delete content without page reloads.
 The React state and effect hooks are used to manage state and side effects, like fetching data from the server.
@@ -32,3 +28,4 @@ User authentication to allow for personalized blogging experiences.
 Enhanced text editing capabilities for article content.
 Commenting functionality for each article.
 Search and filtering options to easily navigate through the articles.
+Visual Elements: Includes an animated logo and a color scheme that offers a professional and modern aesthetic.
