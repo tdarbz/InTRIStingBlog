@@ -29,4 +29,4 @@ Enhanced text editing capabilities for article content.
 Commenting functionality for each article.
 Search and filtering options to easily navigate through the articles.
 Visual Elements: Includes an animated logo and a color scheme that offers a professional and modern aesthetic.
-Adding CSS styling to create an orginal and modern look.
+Adding CSS styling to create an orginal and modern design.
